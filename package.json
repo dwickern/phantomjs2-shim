@@ -1,0 +1,11 @@
+{
+  "name": "phantomjs",
+  "version": "1.0.0",
+  "description": "Alias for phantomjs which calls phantomjs2",
+  "main": "index.js",
+  "author": "Derek Wickern <dwickern@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "phantomjs2-ext": "^0.1.0"
+  }
+}
